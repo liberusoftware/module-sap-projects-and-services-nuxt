@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-projects-and-services-nuxt",
+  "capabilityKey": "planned:sap:projects-and-services",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-sap-projects-and-services-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/sap/nextjs/projects-and-services.md",
+  "presentationPlan": "projects/sap/nuxt/projects-and-services.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
